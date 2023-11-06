@@ -1,0 +1,16 @@
+.book{
+    box-shadow: 5px 5px 5px 1px grey;
+    height: 407;
+    width: 244px;
+}
+.newbooks{
+    display: flex;
+    gap: 50px;
+   
+   
+}
+.newbooks button{
+   
+    border: 2px solid black;
+    
+}
